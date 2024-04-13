@@ -1,0 +1,29 @@
+Entity: India, Type: LOCATION
+Entity: Republic, Type: ORGANIZATION
+Entity: India, Type: LOCATION
+Entity: South Asia, Type: LOCATION
+Entity: Indian, Type: LOCATION
+Entity: Arabian Sea, Type: PERSON
+Entity: Bay, Type: LOCATION
+Entity: Bengal, Type: LOCATION
+Entity: Pakistan, Type: LOCATION
+Entity: China, Type: LOCATION
+Entity: Nepal, Type: LOCATION
+Entity: Bhutan, Type: LOCATION
+Entity: Bangladesh, Type: LOCATION
+Entity: Myanmar, Type: LOCATION
+Entity: Indian Ocean, Type: LOCATION
+Entity: India, Type: LOCATION
+Entity: Sri Lanka, Type: LOCATION
+Entity: Maldives, Type: LOCATION
+Entity: Andaman, Type: LOCATION
+Entity: Nicobar Islands, Type:LOCATION
+Entity: Thailand, Type: LOCATION
+Entity: Myanmar, Type: LOCATION
+Entity: Indonesia, Type: LOCATION
+Entity: Indus Valley, Type: ORGANIZATION
+Entity: Mahatma Gandhi, Type: PERSON
+Entity: Jawaharlal Nehru, Type: PERSON
+Entity: Indira Gandhi, Type: PERSON
+Entity: Narendra Modi, Type: PERSON
+Entity: India, Type: LOCATION
