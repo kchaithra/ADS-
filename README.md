@@ -12,3 +12,7 @@ ii. Store all the metadata of the actors in the network.
 iii. Calculate all types of centrality (degree, betweenness, closeness, eigenvector, pagerank centrality). Analyse the nodes based on the centrality values. Write a note on this. 
 iv. Find the possible k-components of the network and the clustering coefficient.
 v. Find out the communities using Girvan-Newman algorithm and Louvain method
+1. i) DESCRIBE NAMED ENTITY RECOGNITION
+Named Entity Recognition (NER) is a crucial natural language processing (NLP) task that identifies and classifies key information in text, such as people, organizations, locations, and more. It helps extract structured data from unstructured text, enabling a wide range of applications from search to information extraction.Named Entity Recognition (NER) is a sub-task of information extraction in Natural Language Processing (NLP) that classifies named entities into predefined categories such as person names, organizations, locations, medical codes, time expressions, quantities, monetary values, and more.
+NER systems use a combination of rule-based and machine learning techniques to accurately extract and categorize these crucial data points from documents, web pages, social media posts, and other text-based sources.
+
